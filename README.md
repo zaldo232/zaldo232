@@ -27,29 +27,66 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 
 ---
+<div align="center">
 
 ### 🖥️ Projects
 
 <table>
   <tr>
     <td align="center" width="290" valign="top">
-      <a href="https://github.com/zaldo232/kioskApp">
-        <b>키오스크</b><br>
-        <img src="https://img.shields.io/badge/WPF-.NET8%20%7C%20MVVM-blue?style=flat-square&logo=windows"/>
-      </a>
-      <br>
-      키오스크 시스템
+      <a href="https://github.com/zaldo232/kioskApp"><b>키오스크</b></a><br>
+      <img src="https://img.shields.io/badge/WPF-0078D7?style=flat-square&logo=windows&logoColor=white"/>
+      <img src="https://img.shields.io/badge/.NET8-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MVVM-0052CC?style=flat-square"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+      <br>주문·결제 키오스크 시스템
     </td>
     <td align="center" width="290" valign="top">
-      <a href="https://github.com/zaldo232/booksearchApp">
-        <b>책 검색 앱</b><br>
-        <img src="https://img.shields.io/badge/WPF-.NET8%20%7C%20MVVM-blue?style=flat-square&logo=windows"/>
-      </a>
-      <br>
-      Kakao API 기반<br>실시간 도서 검색/위시리스트 관리
+      <a href="https://github.com/zaldo232/KioskPayApiServer"><b>KioskPayApiServer</b></a><br>
+      <img src="https://img.shields.io/badge/.NET8-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+      <img src="https://img.shields.io/badge/REST API-00C7AE?style=flat-square"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+      <br>카카오페이 결제 연동 서버(API)
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="290" valign="top">
+      <a href="https://github.com/zaldo232/TcpChatClient"><b>TcpChatClient</b></a><br>
+      <img src="https://img.shields.io/badge/WPF-0078D7?style=flat-square&logo=windows&logoColor=white"/>
+      <img src="https://img.shields.io/badge/.NET8-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TCP-228B22?style=flat-square"/>
+      <br>TCP 채팅 클라이언트 앱
+    </td>
+    <td align="center" width="290" valign="top">
+      <a href="https://github.com/zaldo232/TcpChatServer"><b>TcpChatServer</b></a><br>
+      <img src="https://img.shields.io/badge/.NET8-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TCP-228B22?style=flat-square"/>
+      <img src="https://img.shields.io/badge/API-0078D7?style=flat-square"/>
+      <br>TCP 채팅 서버
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="290" valign="top">
+      <a href="https://github.com/zaldo232/booksearchApp"><b>책 검색 앱</b></a><br>
+      <img src="https://img.shields.io/badge/WPF-0078D7?style=flat-square&logo=windows&logoColor=white"/>
+      <img src="https://img.shields.io/badge/.NET8-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MVVM-0052CC?style=flat-square"/>
+      <img src="https://img.shields.io/badge/KakaoAPI-FFCD00?style=flat-square"/>
+      <br>Kakao API 기반<br>실시간 도서 검색/위시리스트 관리
+    </td>
+    <td align="center" width="290" valign="top">
+      <a href="https://github.com/zaldo232/UnifiedEmail"><b>UnifiedEmail</b></a><br>
+      <img src="https://img.shields.io/badge/WPF-0078D7?style=flat-square&logo=windows&logoColor=white"/>
+      <img src="https://img.shields.io/badge/.NET8-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SMTP/IMAP-6A5ACD?style=flat-square"/>
+      <br>통합 이메일 관리 프로그램
     </td>
   </tr>
 </table>
+
+</div>
+
+
 
 ---
 
