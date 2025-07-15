@@ -1,43 +1,61 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20Zaldo's%20GitHub!&fontSize=38&fontAlignY=35&width=1200" width="1000"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Zaldo's%20GitHub&fontSize=36&fontAlignY=35&width=900" width="600"/>
 
-<hr style="width:1000px; margin:auto;">
+---
 
-새로운 걸 좋아하고 끊임없이 도전하는 개발자 zaldo입니다
+### 👋 About Me
 
-## 🛠️ Tech Stack
+안녕하세요!  
+새로운 것에 도전하는 개발자 **zaldo**입니다.
 
-### Language  
-<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+---
 
-### DB & Query  
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+### 🛠️ Tech Stack
 
-### Framework  
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 
-### Tools  
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat&logo=intellijidea&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+---
 
-## 🖥️ Projects
+### 🖥️ Projects
 
-[키오스크](https://github.com/zaldo232/kioskApp)  
-[책 검색](https://github.com/zaldo232/booksearchApp)
+<table>
+  <tr>
+    <td align="center" width="290" valign="top">
+      <a href="https://github.com/zaldo232/kioskApp">
+        <b>무인매장 키오스크</b><br>
+        <img src="https://img.shields.io/badge/WPF-.NET8%20%7C%20MVVM-blue?style=flat-square&logo=windows"/>
+      </a>
+      <br>
+      실매장/카페에 바로 적용 가능한<br>데스크탑 무인 주문·결제 시스템
+    </td>
+    <td align="center" width="290" valign="top">
+      <a href="https://github.com/zaldo232/booksearchApp">
+        <b>책 검색 앱</b><br>
+        <img src="https://img.shields.io/badge/WPF-.NET8%20%7C%20MVVM-blue?style=flat-square&logo=windows"/>
+      </a>
+      <br>
+      Kakao API 기반<br>실시간 도서 검색/위시리스트 관리
+    </td>
+  </tr>
+</table>
 
-<hr style="width:1000px; margin:auto;">
+---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=zaldo232&show_icons=true&theme=radical" width="450"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaldo232&layout=compact&theme=radical" width="350"/>
+<img src="https://github-readme-stats.vercel.app/api?username=zaldo232&show_icons=true&theme=radical" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaldo232&layout=compact&theme=radical" width="300"/>
 
 </div>
