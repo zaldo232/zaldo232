@@ -51,7 +51,7 @@
       <br>주문·결제 키오스크 시스템
     </td>
     <td align="center" width="290" valign="top">
-      <a href="https://github.com/zaldo232/KioskPayApiServer"><b>KioskPayApiServer</b></a><br>
+      <a href="https://github.com/zaldo232/KioskPayApiServer"><b>키오스크 결제 연동 서버</b></a><br>
       <img src="https://img.shields.io/badge/.NET8-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
       <img src="https://img.shields.io/badge/REST%20API-00C7AE?style=flat-square"/>
       <img src="https://img.shields.io/badge/Minimal%20API-009688?style=flat-square"/>
@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td align="center" width="290" valign="top">
-      <a href="https://github.com/zaldo232/TcpChatClient"><b>TcpChatClient</b></a><br>
+      <a href="https://github.com/zaldo232/TcpChatClient"><b>채팅 클라이언트</b></a><br>
       <img src="https://img.shields.io/badge/WPF-0078D7?style=flat-square&logo=windows&logoColor=white"/>
       <img src="https://img.shields.io/badge/.NET8-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
       <img src="https://img.shields.io/badge/MVVM-0052CC?style=flat-square"/>
@@ -72,7 +72,7 @@
       <br>TCP 채팅 클라이언트 앱
     </td>
     <td align="center" width="290" valign="top">
-      <a href="https://github.com/zaldo232/TcpChatServer"><b>TcpChatServer</b></a><br>
+      <a href="https://github.com/zaldo232/TcpChatServer"><b>채팅 서버</b></a><br>
       <img src="https://img.shields.io/badge/.NET8-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
       <img src="https://img.shields.io/badge/TCP-228B22?style=flat-square"/>
       <img src="https://img.shields.io/badge/Socket-2962FF?style=flat-square"/>
@@ -90,7 +90,7 @@
       <br>Kakao API 기반<br>실시간 도서 검색/위시리스트 관리
     </td>
     <td align="center" width="290" valign="top">
-      <a href="https://github.com/zaldo232/UnifiedEmail"><b>UnifiedEmail</b></a><br>
+      <a href="https://github.com/zaldo232/UnifiedEmail"><b>통합 이메일 관리 앱</b></a><br>
       <img src="https://img.shields.io/badge/WPF-0078D7?style=flat-square&logo=windows&logoColor=white"/>
       <img src="https://img.shields.io/badge/.NET8-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
       <img src="https://img.shields.io/badge/MVVM-0052CC?style=flat-square"/>
