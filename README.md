@@ -44,8 +44,11 @@
     <td align="center" width="290" valign="top">
       <a href="https://github.com/zaldo232/KioskPayApiServer"><b>KioskPayApiServer</b></a><br>
       <img src="https://img.shields.io/badge/.NET8-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-      <img src="https://img.shields.io/badge/REST API-00C7AE?style=flat-square"/>
+      <img src="https://img.shields.io/badge/REST%20API-00C7AE?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Minimal%20API-009688?style=flat-square"/>
       <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+      <img src="https://img.shields.io/badge/KakaoPay-FFEB00?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Server-546E7A?style=flat-square"/>
       <br>카카오페이 결제 연동 서버(API)
     </td>
   </tr>
@@ -54,14 +57,17 @@
       <a href="https://github.com/zaldo232/TcpChatClient"><b>TcpChatClient</b></a><br>
       <img src="https://img.shields.io/badge/WPF-0078D7?style=flat-square&logo=windows&logoColor=white"/>
       <img src="https://img.shields.io/badge/.NET8-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MVVM-0052CC?style=flat-square"/>
       <img src="https://img.shields.io/badge/TCP-228B22?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Socket-2962FF?style=flat-square"/>
       <br>TCP 채팅 클라이언트 앱
     </td>
     <td align="center" width="290" valign="top">
       <a href="https://github.com/zaldo232/TcpChatServer"><b>TcpChatServer</b></a><br>
       <img src="https://img.shields.io/badge/.NET8-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
       <img src="https://img.shields.io/badge/TCP-228B22?style=flat-square"/>
-      <img src="https://img.shields.io/badge/API-0078D7?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Socket-2962FF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Server-546E7A?style=flat-square"/>
       <br>TCP 채팅 서버
     </td>
   </tr>
@@ -78,7 +84,11 @@
       <a href="https://github.com/zaldo232/UnifiedEmail"><b>UnifiedEmail</b></a><br>
       <img src="https://img.shields.io/badge/WPF-0078D7?style=flat-square&logo=windows&logoColor=white"/>
       <img src="https://img.shields.io/badge/.NET8-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SMTP/IMAP-6A5ACD?style=flat-square"/>
+      <img src="https://img.shields.io/badge/MVVM-0052CC?style=flat-square"/>
+      <br>
+      <img src="https://img.shields.io/badge/SMTP-FF9800?style=flat-square"/>
+      <img src="https://img.shields.io/badge/IMAP-1976D2?style=flat-square"/>
+      <img src="https://img.shields.io/badge/POP3-388E3C?style=flat-square"/>
       <br>통합 이메일 관리 프로그램
     </td>
   </tr>
