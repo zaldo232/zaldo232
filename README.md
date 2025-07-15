@@ -34,11 +34,11 @@
   <tr>
     <td align="center" width="290" valign="top">
       <a href="https://github.com/zaldo232/kioskApp">
-        <b>무인매장 키오스크</b><br>
+        <b>키오스크</b><br>
         <img src="https://img.shields.io/badge/WPF-.NET8%20%7C%20MVVM-blue?style=flat-square&logo=windows"/>
       </a>
       <br>
-      실매장/카페에 바로 적용 가능한<br>데스크탑 무인 주문·결제 시스템
+      키오스크 시스템
     </td>
     <td align="center" width="290" valign="top">
       <a href="https://github.com/zaldo232/booksearchApp">
@@ -55,7 +55,7 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=zaldo232&show_icons=true&theme=radical" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api?username=zaldo232&show_icons=true&theme=radical" width="395"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaldo232&layout=compact&theme=radical" width="300"/>
 
 </div>
