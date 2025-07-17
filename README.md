@@ -40,7 +40,7 @@
     <td align="center" width="255">
       <a href="https://github.com/zaldo232/kioskApp"><b>키오스크</b></a>
     </td>
-    <td align="center">
+    <td align="center"  width="440">
       주문·결제 키오스크 시스템<br>
       <img src="https://img.shields.io/badge/WPF-0078D7?style=flat-square&logo=windows&logoColor=white"/>
       <img src="https://img.shields.io/badge/.NET8-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
@@ -50,7 +50,7 @@
   </tr>
   
   <tr>
-    <td align="center" width="440">
+    <td align="center">
       <a href="https://github.com/zaldo232/KioskPayApiServer"><b>키오스크 결제 연동 서버</b></a><br>
     </td>
     <td align="center">
