@@ -38,6 +38,14 @@
 <table>
   <tr>
     <td align="center" width="255">
+      프로젝트
+    </td>
+    <td align="center" width="440">
+      프로젝트 소개
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/zaldo232/kioskApp"><b>키오스크</b></a>
     </td>
     <td align="center">
@@ -53,7 +61,7 @@
     <td align="center">
       <a href="https://github.com/zaldo232/KioskPayApiServer"><b>키오스크 결제 연동 서버</b></a><br>
     </td>
-    <td align="center" width="440">
+    <td align="center">
       카카오페이 결제 연동 서버(API)<br>
       <img src="https://img.shields.io/badge/.NET8-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
       <img src="https://img.shields.io/badge/REST%20API-00C7AE?style=flat-square"/>
