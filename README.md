@@ -38,14 +38,6 @@
 <table>
   <tr>
     <td align="center" width="255">
-      프로젝트
-    </td>
-    <td align="center" width="440">
-      프로젝트 소개
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/zaldo232/kioskApp"><b>키오스크</b></a>
     </td>
     <td align="center">
@@ -58,7 +50,7 @@
   </tr>
   
   <tr>
-    <td align="center">
+    <td align="center" width="440">
       <a href="https://github.com/zaldo232/KioskPayApiServer"><b>키오스크 결제 연동 서버</b></a><br>
     </td>
     <td align="center">
