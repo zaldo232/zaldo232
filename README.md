@@ -44,7 +44,7 @@
     <td align="center"  width="440">
       주문·결제 키오스크 시스템<br>
       <img src="https://img.shields.io/badge/WPF-0078D7?style=flat-square&logo=windows&logoColor=white"/>
-      <img src="https://img.shields.io/badge/.NET8-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
       <img src="https://img.shields.io/badge/MVVM-0052CC?style=flat-square"/>
       <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
     </td>
@@ -56,7 +56,7 @@
     </td>
     <td align="center">
       카카오페이 결제 연동 서버(API)<br>
-      <img src="https://img.shields.io/badge/.NET8-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
       <img src="https://img.shields.io/badge/REST%20API-00C7AE?style=flat-square"/>
       <img src="https://img.shields.io/badge/Minimal%20API-009688?style=flat-square"/>
       <br>
@@ -73,7 +73,7 @@
     <td align="center">
       TCP 채팅 클라이언트 앱 <br>
       <img src="https://img.shields.io/badge/WPF-0078D7?style=flat-square&logo=windows&logoColor=white"/>
-      <img src="https://img.shields.io/badge/.NET8-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
       <img src="https://img.shields.io/badge/MVVM-0052CC?style=flat-square"/>
       <img src="https://img.shields.io/badge/TCP-228B22?style=flat-square"/>
       <img src="https://img.shields.io/badge/Socket-2962FF?style=flat-square"/>
@@ -85,7 +85,7 @@
     </td>
     <td align="center">
       TCP 채팅 서버 <br>
-      <img src="https://img.shields.io/badge/.NET8-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
       <img src="https://img.shields.io/badge/TCP-228B22?style=flat-square"/>
       <img src="https://img.shields.io/badge/Socket-2962FF?style=flat-square"/>
       <img src="https://img.shields.io/badge/Server-546E7A?style=flat-square"/>
@@ -98,7 +98,7 @@
     <td align="center">
       Kakao API 기반 실시간 도서 검색/위시리스트 관리<br>
       <img src="https://img.shields.io/badge/WPF-0078D7?style=flat-square&logo=windows&logoColor=white"/>
-      <img src="https://img.shields.io/badge/.NET8-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
       <img src="https://img.shields.io/badge/MVVM-0052CC?style=flat-square"/>
       <img src="https://img.shields.io/badge/KakaoAPI-FFCD00?style=flat-square"/>
     </td>
@@ -110,7 +110,7 @@
     <td align="center">
       통합 이메일 관리 프로그램<br>
       <img src="https://img.shields.io/badge/WPF-0078D7?style=flat-square&logo=windows&logoColor=white"/>
-      <img src="https://img.shields.io/badge/.NET8-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
       <img src="https://img.shields.io/badge/MVVM-0052CC?style=flat-square"/>
       <br>
       <img src="https://img.shields.io/badge/SMTP-FF9800?style=flat-square"/>
